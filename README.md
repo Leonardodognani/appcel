@@ -1,4 +1,4 @@
-# 📱 appcel 📱
+# ⚛️📱 appcel 📱⚛️
 ## Primeiro App de teste do React Native
 
 * App simples para teste de React Native;
